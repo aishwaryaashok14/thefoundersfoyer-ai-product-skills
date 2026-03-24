@@ -45,8 +45,10 @@ Produces a concrete positioning document and narrative draft you can pressure-te
 ## Install
 
 ```bash
-npx @founders-foyer/positioning-autopsy
+npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/positioning-autopsy
 ```
+
+Distributed via [skills.sh](https://skills.sh).
 
 ## Part of [The Founders Foyer AI Product Skills](https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills)
 

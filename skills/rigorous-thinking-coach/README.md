@@ -48,8 +48,10 @@ Operates in two modes:
 ## Install
 
 ```bash
-npx @founders-foyer/rigorous-thinking-coach
+npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/rigorous-thinking-coach
 ```
+
+Distributed via [skills.sh](https://skills.sh).
 
 ## Part of [The Founders Foyer AI Product Skills](https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills)
 

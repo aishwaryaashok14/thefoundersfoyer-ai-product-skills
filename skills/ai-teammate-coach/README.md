@@ -50,8 +50,10 @@ Includes real examples: shutters installer running entire back office on AI, rea
 ## Install
 
 ```bash
-npx @founders-foyer/ai-teammate-coach
+npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/ai-teammate-coach
 ```
+
+Distributed via [skills.sh](https://skills.sh).
 
 ## Part of [The Founders Foyer AI Product Skills](https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills)
 

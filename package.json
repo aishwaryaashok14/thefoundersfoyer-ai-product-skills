@@ -1,9 +1,0 @@
-{
-  "name": "founders-foyer-skills",
-  "private": true,
-  "description": "Practitioner-grade AI product skills from The Founders Foyer podcast guests",
-  "workspaces": [
-    "packages/*"
-  ],
-  "license": "MIT"
-}
