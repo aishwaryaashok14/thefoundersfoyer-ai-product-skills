@@ -1,0 +1,18 @@
+{
+  "name": "@founders-foyer/vibe-to-ship-coach",
+  "version": "1.0.0",
+  "description": "Build before you document, ship before you're ready — step-by-step AI prototyping with Colin Matthews' methodology, Eric Simons' speed thesis & Dan Shipper's creative process",
+  "bin": {
+    "vibe-to-ship-coach": "./bin/install.js"
+  },
+  "keywords": ["claude-code", "skill", "prototyping", "ai-coding", "founders-foyer", "bolt", "vibe-coding"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills.git",
+    "directory": "packages/vibe-to-ship-coach"
+  },
+  "homepage": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills#vibe-to-ship-coach",
+  "author": "The Founders Foyer",
+  "files": ["bin/", "skill.md"]
+}

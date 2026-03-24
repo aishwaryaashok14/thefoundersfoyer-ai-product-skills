@@ -1,0 +1,18 @@
+{
+  "name": "@founders-foyer/behavioral-product-design",
+  "version": "1.0.0",
+  "description": "Design for what users DO, not what they say — using Kristen Berman's 3 Bs framework, hot/cold state diagnostics, and behavioral pre-testing methodology",
+  "bin": {
+    "behavioral-product-design": "./bin/install.js"
+  },
+  "keywords": ["claude-code", "skill", "behavioral-science", "product-design", "founders-foyer", "kristen-berman"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills.git",
+    "directory": "packages/behavioral-product-design"
+  },
+  "homepage": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills#behavioral-product-design",
+  "author": "The Founders Foyer",
+  "files": ["bin/", "skill.md"]
+}

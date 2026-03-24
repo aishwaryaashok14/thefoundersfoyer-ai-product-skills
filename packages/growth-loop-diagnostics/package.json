@@ -1,0 +1,18 @@
+{
+  "name": "@founders-foyer/growth-loop-diagnostics",
+  "version": "1.0.0",
+  "description": "Find the metric that actually moves — diagnose which of 4 sustainable growth loops fits your product, using Casey Winters' frameworks from Pinterest, GrubHub & Eventbrite",
+  "bin": {
+    "growth-loop-diagnostics": "./bin/install.js"
+  },
+  "keywords": ["claude-code", "skill", "growth", "startup", "founders-foyer", "casey-winters", "pinterest"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills.git",
+    "directory": "packages/growth-loop-diagnostics"
+  },
+  "homepage": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills#growth-loop-diagnostics",
+  "author": "The Founders Foyer",
+  "files": ["bin/", "skill.md"]
+}

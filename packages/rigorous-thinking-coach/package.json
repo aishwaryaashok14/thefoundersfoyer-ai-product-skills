@@ -1,0 +1,18 @@
+{
+  "name": "@founders-foyer/rigorous-thinking-coach",
+  "version": "1.0.0",
+  "description": "Turn hand-wavy strategy into actionable specifics — Wes Kao's Super Specific Hows + Ami Vora's decision-making frameworks from 15 years at Meta",
+  "bin": {
+    "rigorous-thinking-coach": "./bin/install.js"
+  },
+  "keywords": ["claude-code", "skill", "strategy", "thinking", "founders-foyer", "wes-kao", "ami-vora"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills.git",
+    "directory": "packages/rigorous-thinking-coach"
+  },
+  "homepage": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills#rigorous-thinking-coach",
+  "author": "The Founders Foyer",
+  "files": ["bin/", "skill.md"]
+}
