@@ -45,7 +45,7 @@ Also includes:
 ## Install
 
 ```bash
-npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/behavioral-product-design
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/behavioral-product-design
 ```
 
 Distributed via [skills.sh](https://skills.sh).

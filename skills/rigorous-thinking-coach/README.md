@@ -48,7 +48,7 @@ Operates in two modes:
 ## Install
 
 ```bash
-npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/rigorous-thinking-coach
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/rigorous-thinking-coach
 ```
 
 Distributed via [skills.sh](https://skills.sh).

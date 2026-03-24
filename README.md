@@ -12,17 +12,6 @@ npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills
 
 Works with **Claude Code, Cursor, Copilot, Codex CLI, Gemini CLI, Windsurf, Kiro**, and [40+ more agents](https://skills.sh). Pick the skills and agents you want during install.
 
-### Install a specific skill
-
-```bash
-npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/positioning-autopsy
-npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/growth-loop-diagnostics
-npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/behavioral-product-design
-npx skills add https://github.com/aishwaryaashok14/thefoundersforey-ai-product-skills/tree/main/skills/rigorous-thinking-coach
-npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/vibe-to-ship-coach
-npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/ai-teammate-coach
-```
-
 ---
 
 ## The Skills
@@ -35,6 +24,10 @@ What would happen if you didn't exist? Most founders position against competitor
 
 **Featuring:** [April Dunford](https://www.aprildunford.com/) · [Andy Raskin](https://andyraskin.com/) · [Emily Tate](https://www.linkedin.com/in/emilytate/)
 
+```bash
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/positioning-autopsy
+```
+
 ---
 
 ### 2. Growth Loop Diagnostics
@@ -44,6 +37,10 @@ What would happen if you didn't exist? Most founders position against competitor
 Not traffic, not signups — the moment the user receives value. Diagnoses which of 4 sustainable loops fits your product, flags when paid marketing is your only channel (death spiral), and applies the Pinterest lesson: 3 new products = zero growth impact; a 2-day conversion test = 50% lift.
 
 **Featuring:** [Casey Winters](https://caseyaccidental.com/) (Pinterest, GrubHub, Eventbrite)
+
+```bash
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/growth-loop-diagnostics
+```
 
 ---
 
@@ -55,6 +52,10 @@ Replaces "let's interview 5 users" with behavioral science. Maps every real-worl
 
 **Featuring:** [Kristen Berman](https://irrationallabs.com/) (Irrational Labs, co-founded with Dan Ariely)
 
+```bash
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/behavioral-product-design
+```
+
 ---
 
 ### 4. Rigorous Thinking Coach
@@ -64,6 +65,10 @@ Replaces "let's interview 5 users" with behavioral science. Maps every real-worl
 Takes any vague strategy and decomposes it into super specific hows until every step is actionable. Catches lazy thinking where the "solution" is just the problem restated. Pairs Wes Kao's strategy decomposition with Ami Vora's decision-making frameworks from 15 years leading product at Meta.
 
 **Featuring:** [Wes Kao](https://www.weskao.com/) (Maven) · [Ami Vora](https://www.linkedin.com/in/amivora/) (ex-Meta CPO)
+
+```bash
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/rigorous-thinking-coach
+```
 
 ---
 
@@ -75,6 +80,10 @@ The anti-planning skill. Step-by-step methodology for going from messy idea to w
 
 **Featuring:** [Colin Matthews](https://www.linkedin.com/in/colinmatthews/) · [Eric Simons](https://stackblitz.com/) (Bolt/StackBlitz) · [Dan Shipper](https://every.to/) (Every)
 
+```bash
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/vibe-to-ship-coach
+```
+
 ---
 
 ### 6. AI Teammate Coach
@@ -84,6 +93,10 @@ The anti-planning skill. Step-by-step methodology for going from messy idea to w
 95% of the time you want a workflow, not an agent. Walks you through auditing your work for automation, choosing the right pattern (periodic digest, event prep, external trigger, follow-up, data enrichment), and iterating on prompts until the output matches your taste.
 
 **Featuring:** [Jacob Bank](https://www.relay.app/) (Relay, ex-Gmail) · [Dan Shipper](https://every.to/) (Every)
+
+```bash
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/ai-teammate-coach
+```
 
 ---
 

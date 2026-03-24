@@ -58,7 +58,7 @@ Includes the tool selection matrix:
 ## Install
 
 ```bash
-npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/vibe-to-ship-coach
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/vibe-to-ship-coach
 ```
 
 Distributed via [skills.sh](https://skills.sh).

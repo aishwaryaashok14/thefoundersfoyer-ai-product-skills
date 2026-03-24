@@ -44,7 +44,7 @@ Includes the Pinterest lesson: a 2-day conversion test drove 50% growth lift, wh
 ## Install
 
 ```bash
-npx skills add aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/growth-loop-diagnostics
+npx skills add https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills/tree/main/skills/growth-loop-diagnostics
 ```
 
 Distributed via [skills.sh](https://skills.sh).
