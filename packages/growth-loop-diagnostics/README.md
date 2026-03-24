@@ -16,6 +16,14 @@ Don't use this when:
 - You don't have a product yet — you need to build before you can grow
 - Prospects can't understand what you do — that's a positioning problem (use Positioning Autopsy)
 
+### False positives — when NOT to trigger
+
+- **"Help me run Facebook ads"** — This skill diagnoses growth strategy, not ad execution. If paid is your loop, it tells you that — but it won't write ad copy or set up campaigns.
+- **"How do I get more followers on Twitter/LinkedIn?"** — Social media tactics are not growth loops. This skill operates at the product and acquisition architecture level.
+- **"Help me with SEO keywords"** — SEO may be part of a content loop, but keyword research is a tactic, not a diagnostic. This skill identifies WHETHER content/SEO is your loop.
+- **"We need a referral program"** — Virality is one of 4 loops, but jumping to "referral program" skips the diagnostic. This skill determines if virality is even the right loop first.
+- **"Help me build a landing page"** — Conversion optimization is downstream of growth strategy. This skill tells you which page matters most and what to measure.
+
 ## What it does
 
 Walks you through a 6-step diagnostic:

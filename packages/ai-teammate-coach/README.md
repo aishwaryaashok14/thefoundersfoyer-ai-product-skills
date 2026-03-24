@@ -17,6 +17,14 @@ Don't use this when:
 - You need to build a product prototype — use Vibe-to-Ship Coach
 - You need a one-off answer to a question — just use ChatGPT/Claude directly
 
+### False positives — when NOT to trigger
+
+- **"Help me write a prompt"** — One-off prompt crafting is different from designing a reusable workflow. This skill builds SYSTEMS, not single prompts.
+- **"Which AI model should I use?"** — Model selection is a technical decision. This skill focuses on workflow architecture and delegation design, not model benchmarking.
+- **"Help me fine-tune a model"** — Fine-tuning is ML engineering. This skill is for non-technical workflow automation using existing AI capabilities.
+- **"Build me an AI chatbot"** — Chatbot development is a product/engineering task. This skill helps you design the WORKFLOWS that might feed into or surround a chatbot.
+- **"Summarize this document"** — That's a one-off task for a chatbot. This skill is for when you want to AUTOMATE summarization as a recurring workflow.
+
 ## What it does
 
 Walks you through 5 phases:

@@ -1,6 +1,10 @@
 ---
-name: Growth Loop Diagnostics
-description: Diagnose your startup's growth engine using Casey Winters' frameworks — identify your acquisition loop, measure it correctly, and find the highest-leverage intervention that actually moves the needle.
+name: growth-loop-diagnostics
+description: >
+  Use when the user mentions growth, acquisition, retention, churn, conversion, paid marketing,
+  SEO, virality, network effects, product-market fit, "we're not growing," user acquisition cost,
+  LTV, growth loops, or optimizing the wrong metric. Diagnoses which of 4 sustainable acquisition
+  loops fits the product using Casey Winters' frameworks from Pinterest, GrubHub, and Eventbrite.
 category: growth
 ---
 

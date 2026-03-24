@@ -6,12 +6,31 @@ const os = require("os");
 
 const SKILL_NAME = "behavioral-product-design";
 const skillSrc = path.join(__dirname, "..", "SKILL.md");
-const skillsDir = path.join(os.homedir(), ".claude", "skills");
-const skillDest = path.join(skillsDir, `${SKILL_NAME}.md`);
+const home = os.homedir();
 
-fs.mkdirSync(skillsDir, { recursive: true });
-fs.copyFileSync(skillSrc, skillDest);
+const targets = [
+  { dir: path.join(home, ".claude", "skills"), label: "Claude Code" },
+  { dir: path.join(home, ".agents", "skills"), label: "Universal (Codex, Gemini CLI, Kiro)" },
+];
 
-console.log(`\n  \x1b[32m✓\x1b[0m  Installed \x1b[1m${SKILL_NAME}\x1b[0m skill to ${skillDest}`);
-console.log(`\n  Skill is now available in Claude Code.`);
+// Detect Cursor in current working directory
+const cursorDir = path.join(process.cwd(), ".cursor", "rules");
+if (fs.existsSync(path.join(process.cwd(), ".cursor"))) {
+  targets.push({ dir: cursorDir, label: "Cursor" });
+}
+
+console.log();
+let installed = 0;
+for (const { dir, label } of targets) {
+  try {
+    fs.mkdirSync(dir, { recursive: true });
+    fs.copyFileSync(skillSrc, path.join(dir, `${SKILL_NAME}.md`));
+    console.log(`  \x1b[32m✓\x1b[0m  ${label}: ${path.join(dir, `${SKILL_NAME}.md`)}`);
+    installed++;
+  } catch (e) {
+    console.log(`  \x1b[33m⚠\x1b[0m  ${label}: skipped (${e.message})`);
+  }
+}
+
+console.log(`\n  Installed to ${installed} platform${installed !== 1 ? "s" : ""}. Skill is now available.`);
 console.log(`  From The Founders Foyer — featuring Kristen Berman (Irrational Labs, co-founded with Dan Ariely)\n`);

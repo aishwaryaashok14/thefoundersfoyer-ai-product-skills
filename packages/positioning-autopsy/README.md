@@ -16,6 +16,14 @@ Don't use this when:
 - Prospects already say "just tell me the price" — your positioning is fine, look at growth instead
 - You're pre-idea — this requires an existing product with at least some customers or prospects
 
+### False positives — when NOT to trigger
+
+- **"Help me write marketing copy"** — This is messaging/copywriting, not positioning. Positioning defines the strategic context; copy is a downstream output.
+- **"How do I price my product?"** — Pricing is related but distinct. Positioning tells you which value to emphasize; pricing quantifies it.
+- **"Help me name my company"** — Names don't matter much (April Dunford: "Penguin Random House has nothing to do with books"). Don't use a positioning framework to pick a name.
+- **"I need a business plan"** — Business plans are broader than positioning. This skill focuses specifically on how customers perceive and categorize your product.
+- **"Help me with my pitch deck design"** — If the issue is slide layout/design, this isn't the right skill. If the issue is the STORY told in the deck, then yes.
+
 ## What it does
 
 Walks you through a structured, sequential process:

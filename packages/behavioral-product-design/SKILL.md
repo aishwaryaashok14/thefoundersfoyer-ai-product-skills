@@ -1,6 +1,11 @@
 ---
-name: Behavioral Product Design
-description: A coaching skill that applies behavioral science to product decisions using the 3 Bs framework (Behavior, Barriers, Benefits) drawn from Kristen Berman and Irrational Labs methodology. Guides teams to define uncomfortably specific behaviors, map every step, and design environments that change what users do — not what they believe.
+name: behavioral-product-design
+description: >
+  Use when the user mentions user behavior, conversion optimization, onboarding, activation,
+  signup flow, feature adoption, "users aren't doing what we expect," user research contradicting
+  behavior, nudges, A/B testing, friction reduction, or designing for engagement. Applies Kristen
+  Berman's 3 Bs framework (Behavior, Barriers, Benefits) from Irrational Labs to design environments
+  that change what users do — not what they believe.
 category: product-design
 ---
 

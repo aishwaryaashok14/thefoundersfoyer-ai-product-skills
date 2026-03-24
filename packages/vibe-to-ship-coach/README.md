@@ -18,6 +18,14 @@ Don't use this when:
 - You need to maintain an existing large codebase — use Cursor directly
 - You're not sure what to build — use Rigorous Thinking Coach to clarify first
 
+### False positives — when NOT to trigger
+
+- **"Help me refactor this codebase"** — Refactoring is maintenance, not shipping. This skill is for going from zero to prototype.
+- **"Debug this error in my app"** — If you're mid-build and stuck, yes. If you're maintaining an existing production app, this isn't the right context.
+- **"Help me write tests"** — This skill ships prototypes fast. Tests come after validation, not during the vibe-to-ship phase.
+- **"Design a system architecture"** — Architecture implies long-term planning. This skill is deliberately anti-architecture for the prototype phase.
+- **"Help me deploy to production"** — Deployment is post-prototype. This skill gets you to "something works and someone can use it."
+
 ## What it does
 
 Walks you through 8 steps from idea to shipped prototype:

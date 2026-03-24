@@ -1,6 +1,11 @@
 ---
-name: Positioning Autopsy
-description: Walk through a practitioner-grade positioning diagnostic combining April Dunford's 5-Component Framework, Andy Raskin's Strategic Narrative, and Emily Tate's Product-Market Fit lens. Produces a concrete positioning document and strategic narrative draft.
+name: positioning-autopsy
+description: >
+  Use when the user mentions positioning, go-to-market, competitive differentiation, market category,
+  sales narrative, pitch deck, fundraising story, "everything feels hard," losing deals to no decision,
+  wrong competitor comparisons, or struggling to explain what their product does. Coaches through
+  April Dunford's 5-Component Framework, Andy Raskin's Strategic Narrative, and Emily Tate's PMF lens
+  to produce a positioning document and narrative draft.
 category: product-strategy
 ---
 

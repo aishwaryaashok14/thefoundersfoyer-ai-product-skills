@@ -1,6 +1,10 @@
 ---
-name: Rigorous Thinking Coach
-description: Decompose vague strategies into specific, actionable components and bring clarity to high-stakes decisions. Draws from Wes Kao (Maven co-founder) and Ami Vora (ex-Meta CPO) frameworks featured on The Founders Foyer podcast.
+name: rigorous-thinking-coach
+description: >
+  Use when the user mentions strategy, planning, decision-making, prioritization, "feels hand-wavy,"
+  vague proposals, decomposing ideas, evaluating tradeoffs, stuck on a big decision, fear of
+  committing, or when a plan lacks specific hows. Combines Wes Kao's Super Specific Hows and
+  Underpants Gnomes diagnostic with Ami Vora's fear-setting and decision clarity frameworks.
 category: strategy
 ---
 

@@ -16,6 +16,14 @@ Don't use this when:
 - You don't have users yet — you need to ship first (use Vibe-to-Ship Coach)
 - The problem is that users can't understand what you do — that's positioning, not behavior
 
+### False positives — when NOT to trigger
+
+- **"Help me design a UI"** — This skill designs behaviors, not interfaces. If you need layout/visual design help, use a design skill. If you need to understand WHY users don't click a specific button, this is the right skill.
+- **"Run a user survey for me"** — This skill is skeptical of surveys (people say one thing, do another). It may actually advise AGAINST running a survey in favor of observing behavior.
+- **"Help me improve our NPS score"** — NPS is an outcome metric, not a behavior. This skill will push you to define the specific action behind the score.
+- **"Write me interview questions"** — The skill may include interview guidance, but its primary value is the 3 Bs framework and step-mapping, not research script writing.
+- **"Help me build a recommendation engine"** — Algorithm design is engineering, not behavioral design. This skill addresses the human side: what makes someone ACT on a recommendation.
+
 ## What it does
 
 Walks you through the 3 Bs framework:

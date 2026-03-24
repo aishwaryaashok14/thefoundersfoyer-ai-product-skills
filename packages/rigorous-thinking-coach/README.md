@@ -16,6 +16,14 @@ Don't use this when:
 - You need to ship something fast — overthinking is the enemy (use Vibe-to-Ship Coach)
 - The problem is emotional, not strategic — you need a therapist, not a decomposition framework
 
+### False positives — when NOT to trigger
+
+- **"Help me brainstorm ideas"** — Brainstorming is divergent; this skill is convergent. It decomposes and pressure-tests existing ideas, not generates new ones.
+- **"Write a strategy document for me"** — This skill coaches YOU through the thinking. It won't write the document for you — it will challenge your draft until it's rigorous.
+- **"Help me with project management"** — Task tracking and sprint planning are execution tools. This skill operates at the level above: is the strategy behind the tasks sound?
+- **"Should I use React or Vue?"** — Technical choices are not strategy decomposition. Unless the choice has business implications you need to think through clearly.
+- **"Help me set OKRs"** — OKRs are a format. This skill challenges whether the THINKING behind your OKRs is rigorous, but it won't template them.
+
 ## What it does
 
 Operates in two modes:

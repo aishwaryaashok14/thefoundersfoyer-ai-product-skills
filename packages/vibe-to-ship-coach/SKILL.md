@@ -1,6 +1,11 @@
 ---
-name: Vibe-to-Ship Coach
-description: Walk a user from messy idea to shipped prototype in the fastest path possible, using battle-tested frameworks from Colin Matthews, Eric Simons, and Dan Shipper.
+name: vibe-to-ship-coach
+description: >
+  Use when the user mentions prototyping, building an app, shipping, MVP, vibe coding, AI coding
+  tools, Bolt, Lovable, Replit, Cursor, V0, "haven't shipped yet," over-planning, choosing a tool
+  to build with, or going from idea to working product. Walks from messy idea to shipped prototype
+  using Colin Matthews' step-by-step process, Eric Simons' inner-loop thesis, and Dan Shipper's
+  creative momentum techniques.
 category: product-building
 ---
 
