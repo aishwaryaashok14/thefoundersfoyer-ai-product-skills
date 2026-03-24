@@ -5,7 +5,7 @@ const path = require("path");
 const os = require("os");
 
 const SKILL_NAME = "behavioral-product-design";
-const skillSrc = path.join(__dirname, "..", "skill.md");
+const skillSrc = path.join(__dirname, "..", "SKILL.md");
 const skillsDir = path.join(os.homedir(), ".claude", "skills");
 const skillDest = path.join(skillsDir, `${SKILL_NAME}.md`);
 

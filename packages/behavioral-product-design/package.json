@@ -14,5 +14,5 @@
   },
   "homepage": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills#behavioral-product-design",
   "author": "The Founders Foyer",
-  "files": ["bin/", "skill.md"]
+  "files": ["bin/", "SKILL.md", "README.md"]
 }

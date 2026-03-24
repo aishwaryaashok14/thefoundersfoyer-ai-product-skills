@@ -14,5 +14,5 @@
   },
   "homepage": "https://github.com/aishwaryaashok14/thefoundersfoyer-ai-product-skills#ai-teammate-coach",
   "author": "The Founders Foyer",
-  "files": ["bin/", "skill.md"]
+  "files": ["bin/", "SKILL.md", "README.md"]
 }
